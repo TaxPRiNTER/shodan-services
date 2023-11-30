@@ -138,3 +138,9 @@ Explore various Shodan queries for searching specific devices, services, product
 93. "Western Digital My Cloud" on port:80
 94. "Buffalo NAS" on port:9000
 95. "Seagate NAS" on port:5000
+96. "Drobo NAS" on port:5000
+97. "Asustor NAS" on port:8000
+98. "Thecus NAS" on port:8080
+99. "Netgear ReadyNAS" on port:8080
+100. "FreeNAS" on port:80
+
