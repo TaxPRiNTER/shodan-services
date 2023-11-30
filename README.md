@@ -11,7 +11,7 @@ Explore various Shodan queries for searching specific devices, services, product
 5. device:"IP camera"
 6. device:"VoIP phone"
 7. device:nas
-8. device:"smart refrigerator"
+8. "smart refrigerator"
 9. device:"smart thermostat"
 10. device:"smart watch"
 
