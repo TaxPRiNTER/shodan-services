@@ -143,4 +143,3 @@ Explore various Shodan queries for searching specific devices, services, product
 98. "Thecus NAS" on port:8080
 99. "Netgear ReadyNAS" on port:8080
 100. "FreeNAS" on port:80
-
